@@ -16,6 +16,6 @@ The system was implemented in Java and the development environment was NetBeans.
 Images is free from:
 https://www.iconfinder.com/iconsets/fantasy-and-role-play-game-adventure-quest and https://www.iconfinder.com/icons/34207/box_yellow_icon
 
-  Developer: Anastasios Koumarelis (akoumarelis@gmail.com)
-  University: Hellenic Mediteranian University, Department of Electrical and Computer Engineering, Msc in Informatics Engineering
-  Course: Advanced Software Engineering & Big Data Modelling 2020-2021
+    Developer: Anastasios Koumarelis (akoumarelis@gmail.com)
+    University: Hellenic Mediteranian University, Department of Electrical and Computer Engineering, Msc in Informatics Engineering
+    Course: Advanced Software Engineering & Big Data Modelling 2020-2021
