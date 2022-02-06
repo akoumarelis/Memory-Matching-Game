@@ -9,9 +9,14 @@ With the start of the game the user can perform the following 6 functions:
   4. Show History
   5. Hide History
   6. About
+  
+![image](https://user-images.githubusercontent.com/57871380/152682951-ee2fb328-6907-49e3-8354-c5e410f554b7.png)
 
 With the New Game option, the user enters his name and the name of the computer and chooses the size of the grid that the game will have, which corresponds to the degree of difficulty he desires. If he chooses Restart then the game is repeated with the names entered by the user in the previous round. Show History displays the history of previous rounds to the user and Hide History hides the window. With the About option the user sees information about the system and with Exit the application is terminated.
-The system was implemented in Java and the development environment was NetBeans. The game's graphical interface was based on Java Swing (GUI) because it makes it easy to sort items such as buttons that the game needs to have. 
+The system was implemented in Java and the development environment was NetBeans. The game's graphical interface was based on Java Swing (GUI) because it makes it easy to sort items such as buttons that the game needs to have.
+
+![image](https://user-images.githubusercontent.com/57871380/152682926-882b06ff-6d3f-4b2d-aeb5-56877ee6bc6c.png)
+
 
 Images is free from:
 https://www.iconfinder.com/iconsets/fantasy-and-role-play-game-adventure-quest and https://www.iconfinder.com/icons/34207/box_yellow_icon
