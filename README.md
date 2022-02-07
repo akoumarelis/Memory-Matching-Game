@@ -3,12 +3,12 @@ The game consists of closed cards and the aim is for the players to be able to o
 
 With the start of the game the user can perform the following 6 functions:
 
-  1. New Game
-  2. Restart
-  3. Exit
-  4. Show History
-  5. Hide History
-  6. About
+    1. New Game
+    2. Restart
+    3. Exit
+    4. Show History
+    5. Hide History
+    6. About
   
 ![image](https://user-images.githubusercontent.com/57871380/152682951-ee2fb328-6907-49e3-8354-c5e410f554b7.png)
 
